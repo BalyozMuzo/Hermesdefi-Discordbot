@@ -7,7 +7,8 @@
 2-Run the installer.
 
 3-Go into command prompt and enter the following code command
-  https://pypi.org/project/discord.py/ 
+  
+ - https://pypi.org/project/discord.py/ -
    *Windows:* `py -m pip install discord`
 
    *MacOS:* `python3 -m pip install discord`
