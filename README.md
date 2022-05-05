@@ -7,33 +7,11 @@
 2-Run the installer.
 
 3-Go into command prompt and enter the following code command
---------------------------------------------------------------
-*Windows:* `py -m pip install discord`
 
-*MacOS:* `python3 -m pip install discord`
---------------------------------------------------------------
-*Windows:* `py -m pip install discord asyncio`
+    *Windows:* `py -m pip install discord`
 
-*MacOS:* `python3 -m pip install discord asyncio`
---------------------------------------------------------------
-      **Windows:** `py -m pip install requests`
-      **MacOS:** `python3 -m pip install requests`
---------------------------------------------------------------
-      **Windows:** `py -m pip install pycoingecko`
-      **MacOS:** `python3 -m pip install pycoingecko`
---------------------------------------------------------------
-      **Windows:** `py -m pip install discord-components`
-      **MacOS:** `python3 -m pip install discord-components`
---------------------------------------------------------------
-      **Windows:** `py -m pip install discord-pretty-help`
-      **MacOS:** `python3 -m pip install discord-pretty-help`
---------------------------------------------------------------
-      **Windows:** `py -m pip install discord-pretty-help`
-      **MacOS:** `python3 -m pip install discord-pretty-help`
---------------------------------------------------------------
-      **Windows:** `py -m pip install selenium`
-      **MacOS:** `python3 -m pip install selenium`
---------------------------------------------------------------
+    *MacOS:* `python3 -m pip install discord`
+
       
       
       
