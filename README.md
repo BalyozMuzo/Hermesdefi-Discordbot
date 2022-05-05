@@ -17,11 +17,11 @@
    *MacOS:* `python3 -m pip install discord asyncio`
 
 * *Windows:** `py -m pip install requests`
-* 
+ 
   *MacOS:** `python3 -m pip install requests`
 
 * *Windows:** `py -m pip install pycoingecko`
-* 
+ 
   *MacOS:** `python3 -m pip install pycoingecko`
   
 * *Windows:** `py -m pip install discord-components`
