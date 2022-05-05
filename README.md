@@ -15,7 +15,7 @@
    *Windows:* `py -m pip install discord asyncio`
 
    *MacOS:* `python3 -m pip install discord asyncio`
--------------------------------------------------
+
 
 --------------------------------------------------------------
       **Windows:** `py -m pip install requests`
