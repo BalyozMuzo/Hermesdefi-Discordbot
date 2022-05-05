@@ -43,5 +43,9 @@
 4. Go to https://discordapp.com/developers/applications and create your application, go to the bot section, and copy your token. Place it into the quotes on the last line of code in main.py, replacing the word **TOKEN**
 
 
+5. Go back to command prompt, and cd (navigate) to the directory where you've downloaded this project. Run the following command once you are in the directory on command prompt:
 
+      **Windows:** `py main.py`
+      
+      **MacOS:** `python3 main.py`
 
