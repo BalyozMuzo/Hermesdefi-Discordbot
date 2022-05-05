@@ -9,9 +9,11 @@
 3-Go into command prompt and enter the following code command
 --------------------------------------------------------------
 *Windows:* `py -m pip install discord`
+--------------------------------------------------------------
 *MacOS:* `python3 -m pip install discord`
 --------------------------------------------------------------
-**Windows:** `py -m pip install discord asyncio`
+*Windows:* `py -m pip install discord asyncio`
+--------------------------------------------------------------
 **MacOS:** `python3 -m pip install discord asyncio`
 --------------------------------------------------------------
       **Windows:** `py -m pip install requests`
