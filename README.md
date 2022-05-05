@@ -10,10 +10,10 @@
 
       **Windows:** `py -m pip install discord`
       **MacOS:** `python3 -m pip install discord`
-      ---------------------------------------------------
-      **Windows:** `py -m pip install discord asyncio`
-      **MacOS:** `python3 -m pip install discord asyncio`
-      ---------------------------------------------------
+--------------------------------------------------------------
+        **Windows:** `py -m pip install discord asyncio`
+        **MacOS:** `python3 -m pip install discord asyncio`
+--------------------------------------------------------------
       **Windows:** `py -m pip install requests`
       **MacOS:** `python3 -m pip install requests`
       ---------------------------------------------------
