@@ -65,6 +65,6 @@
 
 ![image](https://user-images.githubusercontent.com/96955054/167256096-95622108-315c-48ae-832d-1815dd6d64b9.png)
 
-10.
+10. Extension root directory : ' C:\Users\USER\AppData\Local\Google\Chrome\User Data\Default\Extensions\("CHROME_EXTENSION")\("the folder that is located in") '
 ![image](https://user-images.githubusercontent.com/96955054/167256152-f0947b37-0f4e-4b4c-b582-943140085f93.png)
 
